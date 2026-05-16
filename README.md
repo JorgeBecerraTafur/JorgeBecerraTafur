@@ -5,9 +5,8 @@
 <div size='20px'> Hola! Mi nombre es Jorge. Gracias por visitar mi perfil de GitHub. 
 </div>
 <br>
-<!-- <p align="left">
-<a href="https://linkedin.com/in/jorge-becerra" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
--->
+<p align="left">
+<a href="https://linkedin.com/in/jorge-becerra-tafur" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 <a href = "mailto:jorgeabt4@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
 <a href="https://instagram.com/jorge0x_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-20232a?style=for-the-badge&logo=instagram&logoColor=%23E4405F" alt="Instagram" /></a>
 </p>
